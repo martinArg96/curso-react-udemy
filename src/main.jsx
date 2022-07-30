@@ -38,7 +38,7 @@ ReactDOM.createRoot(    document.getElementById('root')).render(
 ReactDOM.createRoot(    document.getElementById('root')).render(
     <React.StrictMode>
         {/* <CounterApp value={5} /> */}
-        <FirstApp/>
+        <FirstApp title='Hola soy martincho'/>
     </React.StrictMode>);
 
 
